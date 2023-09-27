@@ -1,2 +1,3 @@
-# draw-circle-using-functions-opengl
-C++ Computer Graphics source code that draws a circle using functions
+# Computer Graphics Projects using OpenGL GLUT
+
+C++ Computer Graphics source codes for different projects.
